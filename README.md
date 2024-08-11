@@ -7,9 +7,16 @@
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ten-t-tonmoy" alt="ten-t-tonmoy" /></a> </p>
 
+- 🔭 **𝐉𝐮𝐬𝐭 𝐚𝐧 𝐈𝐓 𝐮𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝 𝐛𝐨𝐢 𝐛𝐚𝐧𝐠𝐢𝐧𝐠 𝐬𝐨𝐦𝐞 𝐜𝐨𝐝𝐞𝐬**
+
+- 🤝 **𝟑𝐃 𝐃𝐄𝐕/𝐆𝐚𝐦𝐞𝐃𝐞𝐯/𝐕𝐅𝐗 ? 𝐋𝐞𝐭'𝐬 𝐄𝐬𝐜𝐚𝐩𝐞 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫.**
+
+- 📝 [𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐞𝐯𝐞𝐫 𝐬𝐢𝐧𝐜𝐞](𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐞𝐯𝐞𝐫 𝐬𝐢𝐧𝐜𝐞)
+
+- 💬 **𝐃𝐨𝐧'𝐭 𝐚𝐬𝐤 𝐞𝐢𝐭𝐡𝐞𝐫 𝐃𝐈𝐘 𝐨𝐫 𝐃𝐈𝐄 .**
+
 - 📫 𝐖𝐚𝐲𝐬 𝐭𝐨 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐞 𝐰 𝐦𝐞 : **𝐎𝐮𝐭 𝐨𝐟 𝐫𝐞𝐚𝐜𝐡 }}=**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
