@@ -1,4 +1,4 @@
-<h1 align="center">🅸🆃'🆂  🅰  🅼🅴   🆃🅾🅽🅼🅾🆈</h1>
+<h1 align="center">🅸🆃'🆂---🅰---🅼🅴----🆃🅾🅽🅼🅾🆈</h1>
 <h3 align="center">𝐓𝐨𝐨 𝐛𝐨𝐫𝐞𝐝 𝐨𝐟 𝐥𝐢𝐯𝐢𝐧𝐠 𝐬𝐨 𝐜𝐚𝐦𝐞 𝐭𝐨 𝐜𝐨𝐝𝐞 𝐚𝐧𝐝 𝐞𝐬𝐜𝐚𝐩𝐞 .</h3>
 
 <img align="left" alt="coding" width="400" src="https://media.tenor.com/fAQ4mdg7iz4AAAAj/pixel-cat.gif">
