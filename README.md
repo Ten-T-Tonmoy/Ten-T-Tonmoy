@@ -1,11 +1,11 @@
-<h1 align="center">🅸🆃'🆂 🅰 🅼🅴 🆃🅾🅽🅼🅾🆈</h1>
+<h1 align="center">🅸🆃'🆂  🅰  🅼🅴   🆃🅾🅽🅼🅾🆈</h1>
 <h3 align="center">𝐓𝐨𝐨 𝐛𝐨𝐫𝐞𝐝 𝐨𝐟 𝐥𝐢𝐯𝐢𝐧𝐠 𝐬𝐨 𝐜𝐚𝐦𝐞 𝐭𝐨 𝐜𝐨𝐝𝐞 𝐚𝐧𝐝 𝐞𝐬𝐜𝐚𝐩𝐞 .</h3>
 
 <img align="left" alt="coding" width="400" src="https://media.tenor.com/fAQ4mdg7iz4AAAAj/pixel-cat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ten-t-tonmoy&label=Profile%20views&color=0e75b6&style=flat" alt="ten-t-tonmoy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ten-t-tonmoy" alt="ten-t-tonmoy" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ten-t-tonmoy" alt="ten-t-tonmoy" /></a> </p>
 
 - 📫 𝐖𝐚𝐲𝐬 𝐭𝐨 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐞 𝐰 𝐦𝐞 : **𝐎𝐮𝐭 𝐨𝐟 𝐫𝐞𝐚𝐜𝐡 }}=**
 
