@@ -2,7 +2,7 @@
 <h3 align="center">𝐓𝐨𝐨 𝐛𝐨𝐫𝐞𝐝 𝐨𝐟 𝐥𝐢𝐯𝐢𝐧𝐠 𝐬𝐨 𝐜𝐚𝐦𝐞 𝐭𝐨 𝐜𝐨𝐝𝐞 𝐚𝐧𝐝 𝐞𝐬𝐜𝐚𝐩𝐞 .</h3>
 
 <img align="left" alt="coding" width="400" src="https://media.tenor.com/fAQ4mdg7iz4AAAAj/pixel-cat.gif">
-<img align="right" alt="coding" width="400" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/045/633/original/Coding_Cat.gif?1662445143">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ten-t-tonmoy&label=Profile%20views&color=0e75b6&style=flat" alt="ten-t-tonmoy" /> </p>
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ten-t-tonmoy" alt="ten-t-tonmoy" /></a> </p>
