@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wavyName.gif" width="300px">
+  <img src="wavyName.gif" width="90%" height="50px">
 </p>
 
 <h3 align="center">𝐓𝐨𝐨 𝐛𝐨𝐫𝐞𝐝 𝐨𝐟 𝐥𝐢𝐯𝐢𝐧𝐠 𝐬𝐨 𝐜𝐚𝐦𝐞 𝐭𝐨 𝐜𝐨𝐝𝐞 𝐚𝐧𝐝 𝐞𝐬𝐜𝐚𝐩𝐞 .</h3>
