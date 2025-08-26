@@ -1,15 +1,27 @@
 <div align="center">
-  <h2 style="font-weight:bold; font-size:32px; color:#00ffcc; border-bottom:2px solid #00ffcc; padding-bottom:5px;">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=#FFECDB&height=150&section=header&text=Syed%20Nazmus%20Sakib&fontSize=60&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <div style="font-weight:bold; font-size:32px ; padding-bottom:5px;">
      Sup — Tonmoy says Hi
-  </h2>
+  </div>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF4F4F&center=true&vCenter=true&width=900&height=100&lines=FullStack+PERN+Developer;Not+your+avarege+Backend+Tweaker;System+Design+Enthusiast;Typescript+Kinky" alt="Typewriter SVG"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF4F4F&center=true&vCenter=true&width=900&height=100&lines=FullStack+PERN+Developer;Not+your+avarege+Backend+Tweaker;System+Design+Enthusiast;Typescript+Kinky" 
+    alt="Typewriter SVG"
+    style="max-width: 100%; height: auto;"
+  />
 </p>
 
 
-<h3 align="center" style="font-weight:bold; font-size:18px; color:#00ffcc; padding-bottom:0px;">Too bored of living so came to code & escape</h3>
+<!-- <h3 align="center" style="font-weight:bold; font-size:18px; color:#00ffcc; padding-bottom:0px;">Too bored of living so came to code & escape</h3> -->
 
 
 
@@ -69,6 +81,9 @@
 
 ###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
