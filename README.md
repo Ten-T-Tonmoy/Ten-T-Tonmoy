@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <div style="font-weight:bold; font-size:32px ; padding-bottom:5px;">
+  <h2 style="font-weight:bold; font-size:32px ; border:0px ; padding-bottom:5px;">
      Sup — Tonmoy says Hi
-  </div>
+  </h2>
 </div>
 
 <div align="center">
